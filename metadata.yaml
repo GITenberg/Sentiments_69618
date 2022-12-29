@@ -1,5 +1,8 @@
 _repo: Sentiments_69618
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69618-h/images/cover.jpg
 creator:
   author:
     agent_name: Gilbert de Voisins, Auguste
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/46652
     wikipedia: https://fr.wikipedia.org/wiki/Auguste_Gilbert_de_Voisins
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69618#Sentiments
 gutenberg_issued: '2022-12-23'
 identifiers:
   gutenberg: '69618'
